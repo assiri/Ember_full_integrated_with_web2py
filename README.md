@@ -1,6 +1,6 @@
-# for python web2py
-copy welcome welcome.w2p to web2py root
-then use api & change db as you want.
+# for  Web2py
+copy welcome welcome.w2p to web2py root over the old one.
+then create a new web2py app, name it as emberapp, the scffold has built in full rest api & db example
 
 
 
